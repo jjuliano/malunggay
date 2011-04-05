@@ -1,0 +1,443 @@
+/*
+  Malunggay HTML5 CSS Framework
+  Malunggay is a rich plant, fully packed with awesome goodness!
+
+  Malunggay framework is:
+
+    - A clean room CSS stylesheet for HTML5 elements.
+    - A CSS framework that helps you use rich semantic HTML5.
+    - Encourages you to use HTML5 elements on your web pages.
+    - Helps you build better web sites.
+    - Organizes your CSS.
+
+  Usage:
+
+    - Build over your HTML5 pages with rich semantics defined on this stylesheets.
+    - Fill-in your styles here.
+    - Remove/comment-out the CSS elements that you don't use.
+    - Copy this to HTML5 Boilerplate. (much cooler!)
+
+  TODOS:
+
+    - Sensible defaults.
+
+Author: Joel Bryan Juliano <joelbryan.juliano@gmail.com>
+License: MIT
+Version: 0.1
+*/
+
+/* 1. Root Elements */
+
+/* Document root element. */
+html {
+}
+
+/* 2. Embedding content */
+
+/* Defines an image. */
+img {
+}
+
+/* Hyperlink area in an image map. */
+area {
+}
+
+/* Image map for adding hyperlinks to parts of an image. */
+map {
+}
+
+/* Reference to non-HTML content. */
+embed {
+}
+
+/* External resource such as an image, iframe or plugin. */
+object {
+}
+
+/* Parameters for the parent object. */
+param {
+}
+
+/* Alternative sources for parent video or audio elements. */
+source {
+}
+
+/* Nested browser frame. */
+iframe {
+}
+
+/* Bitmap which is editable by client side scripts. */
+canvas {
+}
+
+/* Specifies external timing track for media elements. */
+track {
+}
+
+/* Audio Vorbis file. */
+audio {
+}
+
+/* Video Theora/WebM file. */
+video {
+}
+
+/* Allows scripts to access devices such as a webcam. */
+device {
+}
+
+/* 3. Text-level semantics */
+
+/* Container with no semantic meaning. */
+span {
+}
+
+/* Hyperlink. */
+a {
+}
+
+/* Annotation of preceeding text. */
+rt {
+}
+
+/* Contains semantically meaningless markup for browsers that don't understand ruby annotations. */
+rp {
+}
+
+/* Term being defined by the parent section. */
+dfn {
+}
+
+/* Abbreviation or acronym. */
+abbr {
+}
+
+/* Quoted text. */
+q {
+}
+
+/* Title of a referenced piece of work. */
+cite {
+}
+
+/* Text that should be emphasised. */
+em {
+}
+
+/* Time defined in a machine readable format. */
+time {
+}
+
+/* Mathematical or programming variable. */
+var {
+}
+
+/* Sample output of a program. */
+samp {
+}
+
+/* Text in a alternate voice or mood, such as a technical term. */
+i {
+}
+
+/* Stylistically separated text of equal importance, such as a product name. */
+b {
+}
+
+/* Subscript text. */
+sub {
+}
+
+/* Superscript text. */
+sup {
+}
+
+/* An aside, such as fine print. */
+small {
+}
+
+/* Text that is important. */
+strong {
+}
+
+/* Text highlighted for referencing elsewhere. */
+mark {
+}
+
+/* Contains text with annotations, such as pronounciation hints. Commonly used in East Asian text. */
+ruby {
+}
+
+/* Text that has been inserted during document editing. */
+ins {
+}
+
+/* Text that has been removed during document editing. */
+del {
+}
+
+/* Text that is separated from directional formatting of its surroundings. */
+bdi {
+}
+
+/* Defines directional formatting for content. */
+bdo {
+}
+
+/* Text that is outdated or no longer accurate. */
+s {
+}
+
+/* Example input (usually keyboard) for a program. */
+kbd {
+}
+
+/* Opportunity for a line break. */
+wbr {
+}
+
+/* Fragment of code. */
+code {
+}
+
+/* 4. Grouping content */
+
+/* Line break. */
+br {
+}
+
+/* Thematic break within a paragraph. */
+hr {
+}
+
+/* Caption for a figure. */
+figcaption {
+}
+
+/* Contains elements related to single concept, such as an illustration or code example. */
+figure {
+}
+
+/* Paragraph content. */
+p {
+}
+
+/* Ordered list. */
+ol {
+}
+
+/* Unordered list. */
+ul {
+}
+
+/* List item. */
+li {
+}
+
+/* Container with no semantic meaning. */
+div {
+}
+
+/* Text that is preformatted in the HTML code. */
+pre {
+}
+
+/* Quote from another source */
+blockquote {
+}
+
+/* List of term-description pairs. */
+dl {
+}
+
+/* Term which will be described. */
+dt {
+}
+
+/* Description for the preceeding term. */
+dd {
+}
+
+/* 5. Forms */
+
+/* Set of form controls grouped by theme. */
+fieldset {
+}
+
+/* Control for entering a numeric value in a known range. */
+meter {
+}
+
+/* Define a name for a fieldset. */
+legend {
+}
+
+/* Caption for a form control. */
+label {
+}
+
+/* Generic form input. */
+input {
+}
+
+/* Multiline free-form text input. */
+textarea {
+}
+
+/* Form. */
+form {
+}
+
+/* Control for selecting from multiple options. */
+select {
+}
+
+/* Group of option. */
+optgroup {
+}
+
+/* Single option within a select control. */
+option {
+}
+
+/* Contains the results of a calculation. */
+output {
+}
+
+/* A button. */
+button {
+}
+
+/* Define sets of options. */
+datalist {
+}
+
+/* Generates private-public key pairs. */
+keygen {
+}
+
+/* Control for displaying progress of a task. */
+progress {
+}
+
+/* 6. Document sections */
+
+/* Document content. */
+body {
+}
+
+/* Content related to surrounding elements that doesn't belong inline, such as a advertising or quotes. */
+aside {
+}
+
+/* Contact information for the current article. */
+address {
+}
+
+/* Heading for the current section. */
+h1 {
+}
+
+/* Least important heading for the current section. (Level 2) */
+h2 {
+}
+
+/* Least important heading for the current section. (Level 3) */
+h3 {
+}
+
+/* Least important heading for the current section. (Level 4) */
+h4 {
+}
+
+/* Least important heading for the current section. (Level 5) */
+h5 {
+}
+
+/* Least important heading for the current section. (Level 6) */
+h6 {
+}
+
+/* Contains of elements grouped by theme, for example a chapter or tab box. */
+section {
+}
+
+/* Navigation or introductory elements for the current section. */
+header {
+}
+
+/* Contains a collection of links. */
+nav {
+}
+
+/* Section of the page content, such as a blog or forum post. */
+article {
+}
+
+/* Footer of the current section. */
+footer {
+}
+
+/* Collection of headings for the current section. The highest ranked heading repesents the group in the document outline. */
+hgroup {
+}
+
+/* 7. Tabular data */
+
+/* Columns in a table. */
+col {
+}
+
+/* Defines a group of columns in a table. */
+colgroup {
+}
+
+/* Title of a table. */
+caption {
+}
+
+/* Table of multi-dimensional data. */
+table {
+}
+
+/* A row of cells. */
+tr {
+}
+
+/* Table cell. */
+td {
+}
+
+/* Table heading. */
+th {
+}
+
+/* Contains rows that hold the table's data. */
+tbody {
+}
+
+/* Contains rows with table headings. */
+thead {
+}
+
+/* Contains rows with summary of data. */
+tfoot {
+}
+
+/* 8. Interactive elements */
+
+/* Set of commands */
+menu {
+}
+
+/* Command the user can perform, such as publishing an article. */
+command {
+}
+
+/* Caption of a details element. */
+summary {
+}
+
+/* Contains additional information, such as the contents of an accordian view. */
+details {
+}

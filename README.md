@@ -16,3 +16,6 @@ Usage:
   - Fill-in your own styles.
   - Remove/comment-out the CSS elements that you don't use.
   - Copy to HTML5 Boilerplate. (much cooler!)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jjuliano/malunggay/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
